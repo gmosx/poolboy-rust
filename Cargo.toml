@@ -1,0 +1,11 @@
+[package]
+name = "poolboy"
+description = "Provides a namespace for poolboy crates"
+version = "0.1.0"
+license = "Apache-2.0"
+repository = "https://github.com/gmosx/poolboy-rust"
+keywords = ["poolboy"]
+authors = ["Georgios Moschovitis <george.moschovitis@gmail.com>"]
+edition = "2021"
+
+[dependencies]
